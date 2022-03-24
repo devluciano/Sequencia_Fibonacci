@@ -5,9 +5,9 @@
 
 A famosa sequência de Fibonacci segue um padrão considerado divino, a reação das pessoas varia entre espanto e admiração. Esse é mais um caso impressionante em que a matemática mostra sua íntima relação com o universo. Saber o que é Fibonacci leva a compreensão de muitos mistérios da existência eaté mesmo do mercado de ações.
 # O que é a sequência de Fibonacci?
-# A sequência de Fibonacci, ou sucessão de Fibonacci, é uma sequência matemática composta por números inteiros. Normalmente, começa por 0 e 1 e cada termo subsequente é formado pela soma dos dois anteriores.
+A sequência de Fibonacci, ou sucessão de Fibonacci, é uma sequência matemática composta por números inteiros. Normalmente, começa por 0 e 1 e cada termo subsequente é formado pela soma dos dois anteriores.
 
-# Essa sequência é uma sucessão infinita de números que seguem o mesmo padrão.
+Essa sequência é uma sucessão infinita de números que seguem o mesmo padrão.
 
 A palavra Fibonacci é usada porque o matemático italiano, Leonardo de Pisa, foi quem concebeu uma fórmula para essa sequência.
 
